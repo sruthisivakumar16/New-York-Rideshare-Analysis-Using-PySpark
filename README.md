@@ -11,7 +11,6 @@ the datasets are yet to be uploaded
 ## Project Structure 
 - `scripts/`: spark files containing comprehensive analysis of the New York 'Uber/Lyft' data from January 1, 2023, to May 31, 2023 using various Spark techniques & also a python notebook containing visualisations. 
 - `output files/`: csv files from the analysis performed
-- `report.pdf`: report with detialed descriptions of the tasks performed
 
 ### File Descriptions 
 - `scripts/`<br>
